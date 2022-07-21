@@ -1,0 +1,69 @@
+body {
+    background-color: #DBDBDB;
+    font-family: 'Comic sans MS', 'sans-sarif';
+    /*background-image: url();*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+nav {
+    text-align: right;
+    font-size: 32px;
+    position: fixed;
+    top: 0;
+}
+
+button {
+    background-color: rgb(72, 72, 212);
+    color: #fff;
+    border: 2px solid rgb(72, 72, 212);
+    border-radius: 10px;
+  }
+
+button:hover {
+    cursor: pointer;
+  }
+
+.banner-container {
+    display: block;
+    height: auto;
+    width: auto;
+    margin-left: 45%;
+    flex-shrink: 1;
+}
+
+.image-container {
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.image-container img {
+    display: block;
+    height: auto;
+    width: auto;
+    margin-left: 42%;
+    flex-shrink: 1;
+    border-radius: 100%;
+}
+
+#about-me {
+    text-align: center;
+    display: block;
+    flex-shrink: 1;
+    font-size: 20px;
+}
+
+.codecademy {
+    text-decoration: none;
+    color: blue;
+}
+
+.wilmu {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+#resume {
+    margin-top: 100px;
+}
