@@ -1,14 +1,14 @@
 body {
     background-color: #DBDBDB;
     font-family: 'Comic sans MS', 'sans-sarif';
-    /*background-image: url();*/
+    /*background-image: url();
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: auto;
+    background-position: auto;*/
 }
 
 nav {
-    text-align: right;
+    left: 50%;
     font-size: 32px;
     position: fixed;
     top: 0;
