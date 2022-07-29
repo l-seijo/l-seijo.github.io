@@ -127,6 +127,20 @@ body {
 }
 /* End of social media section*/
 
+
+/* Anchor to the top of the page section*/
+#anchor {
+    margin-top: 5%;
+    display: block;
+    text-align: center;
+}
+
+#anchor a {
+    text-decoration: none;
+}
+/* End of anchor section */
+
+
 /* Footer section */
 #footer {
     display: flex;
